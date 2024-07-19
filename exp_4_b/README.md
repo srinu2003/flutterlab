@@ -108,8 +108,6 @@ Understand deep linking in Flutter apps.
 
 ## Output
 
-<video controls src="exp_4_b_output.mp4" title="exp_4_b_output"></video>
-
 
 https://github.com/user-attachments/assets/9ae5fed4-6dd8-4eb9-8567-4b7f6df0e3d2
 

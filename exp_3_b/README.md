@@ -152,7 +152,6 @@ The objective of this experiment is to understand how to use media queries and b
     - Enter `q` to quit the app.
 
 ## Output
-<video controls src="exp_3_b_output.mp4" title="exp_3_b_output"></video>
 
 
 https://github.com/user-attachments/assets/f7dd73cd-c5cf-4571-b00d-86541c41dbaf
